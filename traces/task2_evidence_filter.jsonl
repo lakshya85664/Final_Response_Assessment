@@ -1,0 +1,4 @@
+{"case": "accepted_evidence", "status": "passed", "result": "accepted", "detail": "2 evidence items retained"}
+{"case": "rejected_evidence", "status": "passed", "result": "filtered", "detail": "unaccepted evidence was removed"}
+{"case": "empty_evidence", "status": "passed", "result": "rejected", "detail": "evidence value cannot be empty"}
+{"case": "empty_source", "status": "passed", "result": "rejected", "detail": "evidence source cannot be empty"}

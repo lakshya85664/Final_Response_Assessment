@@ -1,0 +1,5 @@
+{"case": "case_1_\u2014_valid_completed_response", "status": "passed", "result": "accepted", "errors": []}
+{"case": "case_2_\u2014_empty_evidence", "status": "passed", "result": "rejected", "errors": ["at least one evidence item is required"]}
+{"case": "case_3_\u2014_invalid_pending_action", "status": "passed", "result": "rejected", "errors": ["non-final response requires an actionable next_action"]}
+{"case": "case_4_\u2014_invalid_completed_action", "status": "passed", "result": "rejected", "errors": ["completed response has invalid next_action"]}
+{"case": "case_5_\u2014_valid_not_found_response", "status": "passed", "result": "accepted", "errors": []}

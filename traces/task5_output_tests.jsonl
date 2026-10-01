@@ -1,0 +1,6 @@
+{"case": "completed", "status": "passed", "result": "accepted", "detail": "completed response generated from verified evidence"}
+{"case": "pending", "status": "passed", "result": "accepted", "detail": "pending response includes actionable review step"}
+{"case": "needs_review", "status": "passed", "result": "accepted", "detail": "review-required response generated safely"}
+{"case": "not_found", "status": "passed", "result": "accepted", "detail": "not-found response includes actionable retry step"}
+{"case": "unaccepted_evidence", "status": "passed", "result": "blocked", "detail": "finalization requires accepted evidence"}
+{"case": "secret_redaction", "status": "passed", "result": "redacted", "detail": "public output contains no detected secrets"}

@@ -1,0 +1,14 @@
+{
+  "total_cases": 6,
+  "passed_cases": 6,
+  "failed_cases": 0,
+  "pass_rate": 1.0,
+  "required_statuses_tested": [
+    "completed",
+    "pending",
+    "needs_review",
+    "not_found"
+  ],
+  "unaccepted_evidence_blocked": true,
+  "secret_redaction_verified": true
+}

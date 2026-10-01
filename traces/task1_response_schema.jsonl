@@ -1,0 +1,4 @@
+{"case": "valid_success", "status": "passed", "result": "accepted", "detail": "valid completed response"}
+{"case": "invalid_status", "status": "passed", "result": "rejected", "detail": "Value error, invalid public status"}
+{"case": "message_length", "status": "passed", "result": "rejected", "detail": "max_length=300"}
+{"case": "missing_field", "status": "passed", "result": "rejected", "detail": "next_action is required"}

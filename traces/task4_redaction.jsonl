@@ -1,0 +1,5 @@
+{"case": "case_1_\u2014_api_key", "status": "passed", "original_contains_secret": true, "redacted_output": "api_key=[REDACTED]", "redacted_contains_secret": false}
+{"case": "case_2_\u2014_bearer_token", "status": "passed", "original_contains_secret": true, "redacted_output": "Authorization: [REDACTED]", "redacted_contains_secret": false}
+{"case": "case_3_\u2014_password", "status": "passed", "original_contains_secret": true, "redacted_output": "password=[REDACTED]", "redacted_contains_secret": false}
+{"case": "case_4_\u2014_card_number", "status": "passed", "original_contains_secret": true, "redacted_output": "card_number=[REDACTED]", "redacted_contains_secret": false}
+{"case": "case_5_\u2014_multiple_secrets", "status": "passed", "original_contains_secret": true, "redacted_output": "api_key=[REDACTED] password=[REDACTED] card_number=[REDACTED]", "redacted_contains_secret": false}
